@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+ul {
+  color: yellow;
+}
+
+a:link {
+  color: blue;
+}
